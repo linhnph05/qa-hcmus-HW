@@ -1,0 +1,105 @@
+# QA / QC Roles Mindmap
+
+## QA - Quality Assurance
+
+### Focus
+- Process-oriented
+- Prevent defects
+- Improve quality practices
+- Ensure the team follows quality standards
+
+### Main Responsibilities
+- Define quality standards
+- Create quality plans
+- Define test process
+- Support process improvement
+- Perform process audits
+- Ensure compliance with development and testing standards
+
+### Common Roles
+- QA Manager
+- QA Engineer
+- Quality Analyst
+- Process Improvement Specialist
+
+### Deliverables
+- Quality plan
+- QA checklist
+- Process audit report
+- Process improvement report
+
+## QC - Quality Control / Testing
+
+### Focus
+- Product-oriented
+- Detect defects
+- Verify actual results
+- Check whether the product meets requirements
+
+### Main Responsibilities
+- Design test cases
+- Execute test cases
+- Perform static testing
+- Review requirements
+- Report defects
+- Perform regression testing
+- Validate bug fixes
+- Check product quality before release
+
+### Common Roles
+- Manual Tester
+- Automation Tester
+- Test Analyst
+- Test Engineer
+
+### Deliverables
+- Test cases
+- Test scripts
+- Bug reports
+- Test execution report
+- Defect summary report
+
+## Shared Testing Roles
+
+### Test Manager
+- Plans testing activities
+- Manages test resources
+- Monitors test progress
+- Reports test status
+- Supports both QA and QC activities
+
+### Test Analyst
+- Analyzes test basis
+- Designs test cases
+- Supports test execution
+- Reviews requirements and specifications
+
+## Acceptance Testing / UAT
+
+### Performed By
+- Business users
+- Customers
+- Product owners
+- End users
+
+### Purpose
+- Confirm the product is acceptable for real business use
+- Validate that the system meets user needs
+- Support final release decision
+
+## Relationship Between QA and QC
+
+### QA
+- Prevents defects
+- Improves process
+- Proactive
+
+### QC
+- Finds defects
+- Checks product quality
+- Reactive
+
+### Both
+- Support overall software quality
+- Help reduce risk
+- Contribute to better product delivery
